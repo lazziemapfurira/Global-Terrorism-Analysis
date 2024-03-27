@@ -17,5 +17,13 @@ This project is aimed at analyzing the terrorist attacks in various cities, cont
 
 
 2. Two calculated measures were created.
-![](Measure1.png)                                               |                                      ![](Measure2.png)     
-|----------------------------------------------------------------:|:---------------------------------------------------------------------------|
+<pre><code id="sqlQuery"> CODE:✍️
+Suicide cases = CALCULATE(
+    [No of Terrorist Attacks],
+     Terrorism[suicide]=1
+     )
+</code></pre><button class="btn" data-clipboard-target="#sqlQuery">
+
+<pre><code id="sqlQuery"> CODE:✍️
+No of Terrorist Attacks = COUNTROWS('Terrorism') 
+</code></pre><button class="btn" data-clipboard-target="#sqlQuery">
