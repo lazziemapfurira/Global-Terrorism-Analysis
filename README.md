@@ -25,11 +25,6 @@ Suicide cases = CALCULATE(
 </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
 ![](Measure1.png)
 
-<pre><code id="sqlQuery"> CODE:✍️
-No of Terrorist Attacks = COUNTROWS('Terrorism') 
-</code></pre><button class="btn" data-clipboard-target="#sqlQuery">
-
-![](Measure2.png)
 
 4. Two well curated dashboards were designed to display all key performance indicators and questions that were answered in the course of our analysis. These dashboards were done using well articulated charts and graphs to visualize the company's data for the different trading years. 
 
