@@ -14,5 +14,8 @@ This project is aimed at analyzing the terrorist attacks in various cities, cont
 ## Analysis and Visualisation
  The data was imported as stated above and then transformed using power query editor. The null values were replaced. Problematic data were all transformed. After successfully cleaning and replacing the null values, the tables are properly checked to confirm a thorough cleaning.
 
-![](NullValues.png)                                               |                                      ![](Cleaned_NullValues.png)     
+
+
+2. Two calculated measures were created.
+![](Measure1.png)                                               |                                      ![](Measure2.png)     
 |----------------------------------------------------------------:|:---------------------------------------------------------------------------|
